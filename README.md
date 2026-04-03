@@ -42,23 +42,3 @@ Anusuya
 
 ---
 
-# 💡 What you just did
-
-👉 You created:
-✔ Project explanation  
-✔ Features  
-✔ Tech stack  
-✔ Usage guide  
-
-💥 This is what recruiters see FIRST
-
----
-
-# 🚀 Next step
-
-Now run:
-
-```bash
-git add README.md
-git commit -m "Added README file"
-git push
